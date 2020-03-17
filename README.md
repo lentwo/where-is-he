@@ -3,7 +3,7 @@
 
 我的他她它在哪儿？在干嘛？大半夜的说在家其实是去和别人约会了？
 
-在线Demo: https://overflow.fun/
+在线Demo: https://overflow.fun/ip/
 
 ip查询推荐使用 ipip.net
 
